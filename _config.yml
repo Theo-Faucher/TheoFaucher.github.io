@@ -10,8 +10,6 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br>
   <a href="https://www.GitHub.com/Theo-Faucher/">GitHub</a>  
   <br>
-  <a href="https://www.GitHub.com/donbowen/">Twitter</a>  
-  <br>
-  <a href="https://www.GitHub.com/donbowen/">Youtube</a> 
+
   
 theme: jekyll-theme-minimal
