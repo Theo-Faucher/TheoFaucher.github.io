@@ -1,12 +1,8 @@
 ## About Me
 
-I am an awesome student at Lehigh, you should hire me!
-
+I am a dual major finance and economics student at Lehigh University
 <!-- Upload your own photo and change the path -->
 
-<p style="text-align:center;">
-  <img class="img-circle" src="https://github.com/donbowen/donbowen.github.io/raw/master/images/logo.png" width="50%">
-</p>
 
 ---
 
