@@ -680,7 +680,7 @@ ax = sns.regplot(data=final, x='risk1a',y='cum_ret')
 
 
     
-![png](output_20_0.png)
+![png](images/output_20_0.png)
     
 
 
@@ -691,7 +691,7 @@ ax = sns.regplot(data=final, x='risk1b',y='cum_ret')
 
 
     
-![png](output_21_0.png)
+![png](images/output_21_0.png)
     
 
 
@@ -702,7 +702,7 @@ ax = sns.regplot(data=final, x='risk1c',y='cum_ret')
 
 
     
-![png](output_22_0.png)
+![png](images/output_22_0.png)
     
 
 
@@ -713,7 +713,7 @@ ax = sns.regplot(data=final, x='risk2',y='cum_ret')
 
 
     
-![png](output_23_0.png)
+![png](images/output_23_0.png)
     
 
 
@@ -724,7 +724,7 @@ ax = sns.regplot(data=final, x='risk3',y='cum_ret')
 
 
     
-![png](output_24_0.png)
+![png](images/output_24_0.png)
     
 
 
